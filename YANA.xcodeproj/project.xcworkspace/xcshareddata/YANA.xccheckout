@@ -10,31 +10,31 @@
 	<string>YANA</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>1A959B738E6B05DBD06C82098A2AC5BA39CD5BAE</key>
-		<string>https://github.com/gavinc88/YANA.git</string>
+		<key>903BFB2C1746AD93B65FD7C4DE802C177D53393C</key>
+		<string>https://github.com/ShaneWang/iOSYana.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>iOS/YANA/YANA.xcodeproj</string>
+	<string>YANA.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>1A959B738E6B05DBD06C82098A2AC5BA39CD5BAE</key>
-		<string>../../../..</string>
+		<key>903BFB2C1746AD93B65FD7C4DE802C177D53393C</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/gavinc88/YANA.git</string>
+	<string>https://github.com/ShaneWang/iOSYana.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>1A959B738E6B05DBD06C82098A2AC5BA39CD5BAE</string>
+	<string>903BFB2C1746AD93B65FD7C4DE802C177D53393C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>1A959B738E6B05DBD06C82098A2AC5BA39CD5BAE</string>
+			<string>903BFB2C1746AD93B65FD7C4DE802C177D53393C</string>
 			<key>IDESourceControlWCCName</key>
-			<string>YANA_Frontend</string>
+			<string>iOSYana</string>
 		</dict>
 	</array>
 </dict>
